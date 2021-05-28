@@ -11,3 +11,12 @@
     font-size: 3.5rem;
   }
 }
+
+.css-style {
+    text-align: center;
+     font-size: 2em;
+}
+
+.repo-style {
+    list-style-type: none;
+}
