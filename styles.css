@@ -20,3 +20,13 @@
 .repo-style {
     list-style-type: none;
 }
+
+.cover-container {
+  background-color: darkgrey;
+  color: black;
+} 
+
+.my-name {
+  font-style: italic;
+  color: whitesmoke;
+}
